@@ -23,7 +23,7 @@ img {
     transition: all 1s;
 }
 img:hover {
-    transform: scale(1.1);
+    transform: scale(0.8);
 }
 footer {
     background-color: black;
